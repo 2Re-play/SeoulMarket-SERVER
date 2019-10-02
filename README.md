@@ -13,7 +13,7 @@ Screenshots
 <img width="250"  src="https://user-images.githubusercontent.com/22942313/41631775-6e5ce214-7471-11e8-9339-123e4b6f4cb7.jpg">
 </div>
 
-# #서울마켓 시연영상
+# 서울마켓 시연영상
 [![Video Label](http://img.youtube.com/vi/RuIFYyzduAQ/0.jpg)](https://youtu.be/RuIFYyzduAQ?t=0s)
 
 
